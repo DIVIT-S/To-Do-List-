@@ -1,4 +1,5 @@
-# A very simple to-do list program
+# A very to-do list program
+
 tasks = []  # This list will store the tasks
 
 while True:
